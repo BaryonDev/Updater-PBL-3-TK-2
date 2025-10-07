@@ -149,6 +149,7 @@
 </td>
 </tr>
 <tr>
+* Start Section Here *
 <td width="50%" valign="top">
 
 ### 🚀 **TEAM ETA** — KELOMPOK 7
@@ -222,6 +223,7 @@
 <h2 style="color: #00B894;">22+</h2>
 <p><em>Innovative Minds</em></p>
 </td>
+  * End Section Here *
 </tr>
 </table>
 
