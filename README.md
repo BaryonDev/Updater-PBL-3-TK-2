@@ -1,352 +1,531 @@
 <div align="center">
 
-# 🚀 PROJECT BASED LEARNING
+<!-- Hero Section -->
+<!-- <img src="https://raw.githubusercontent.com/BaryonDev/PBL-Updater/main/upt.png" alt="Project Banner" width="100%"/> -->
 
-### Semester 3 • Teknik Komputer 2
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=PROJECT+BASED+LEARNING;Semester+3+%E2%80%A2+Teknik+Komputer+2;Innovation+%26+Excellence" alt="Typing SVG" />
+</h1>
 
-<p>
-  <em>Building Tomorrow's Solutions Through Collaboration</em>
+<p align="center">
+  <em>🚀 Pioneering Innovation • Shaping Tomorrow • Building the Future 🚀</em>
 </p>
 
-![Teams](https://img.shields.io/badge/Active_Teams-8-6C5CE7?style=for-the-badge&logo=teams&logoColor=white)
-![Developers](https://img.shields.io/badge/Developers-22+-00D9FF?style=for-the-badge&logo=github&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-8-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00E676?style=for-the-badge&logo=statuspage&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_ACTIVE_TEAMS-8-FF6B6B.svg?style=for-the-badge&labelColor=1a1a2e&logo=target&logoColor=white" alt="Teams"/>
+  <img src="https://img.shields.io/badge/⚡_STATUS-LIVE-00FF88.svg?style=for-the-badge&labelColor=1a1a2e&logo=statuspage&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/👥_DEVELOPERS-22+-6C5CE7.svg?style=for-the-badge&labelColor=1a1a2e&logo=githubsponsors&logoColor=white" alt="Contributors"/>
+  <img src="https://img.shields.io/badge/📦_PROJECTS-8+-F9CA24.svg?style=for-the-badge&labelColor=1a1a2e&logo=blueprint&logoColor=white" alt="Projects"/>
+</p>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
----
+<br/>
 
-## 🎯 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎮 Group 1
-**Team Name**
-> Project description here
-
-[![Explore Project](https://img.shields.io/badge/View_Project-FF6B6B?style=flat-square&logo=github)](https://github.com/BaryonDev/3TK2-Kelompok1)
-
-**Tech:** HTML, CSS, JavaScript
-
-</td>
-<td width="50%">
-
-### 💧 Group 2
-**Team Name**
-> Project description here
-
-[![Explore Project](https://img.shields.io/badge/View_Project-4ECDC4?style=flat-square&logo=github)](https://github.com/BaryonDev/3TK2-Kelompok2)
-
-**Tech:** PHP, MySQL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 Group 3
-**Team Name**
-> Project description here
-
-[![Explore Project](https://img.shields.io/badge/View_Project-45B7D1?style=flat-square&logo=github)](https://github.com/BaryonDev/3TK2-Kelompok3)
-
-**Tech:** Laravel, Bootstrap
-
-</td>
-<td width="50%">
-
-### 🔥 Group 4
-**Team Name**
-> Project description here
-
-[![Explore Project](https://img.shields.io/badge/View_Project-F9CA24?style=flat-square&logo=github)](https://github.com/BaryonDev/3TK2-Kelompok4)
-
-**Tech:** Node.js, React
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚡ Group 5
-**Team Name**
-> Project description here
-
-[![Explore Project](https://img.shields.io/badge/View_Project-A55EEA?style=flat-square&logo=github)](https://github.com/BaryonDev/3TK2-Kelompok5)
-
-**Tech:** Vue.js, Tailwind
-
-</td>
-<td width="50%">
-
-### 🌟 Group 6
-**Team Name**
-> Project description here
-
-[![Explore Project](https://img.shields.io/badge/View_Project-26DE81?style=flat-square&logo=github)](https://github.com/BaryonDev/3TK2-Kelompok6)
-
-**Tech:** Express, MongoDB
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎨 Group 7
-**Team Name**
-> Project description here
-
-[![Explore Project](https://img.shields.io/badge/View_Project-FD79A8?style=flat-square&logo=github)](https://github.com/BaryonDev/3TK2-Kelompok7)
-
-**Tech:** Next.js, PostgreSQL
-
-</td>
-<td width="50%">
-
-### 💎 Group 8
-**Team Name**
-> Project description here
-
-[![Explore Project](https://img.shields.io/badge/View_Project-2D3436?style=flat-square&logo=github)](https://github.com/BaryonDev/3TK2-Kelompok8)
-
-**Tech:** Django, Python
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Stack
+## 🌟 **FEATURED PROJECTS SHOWCASE**
 
 <div align="center">
 
-**Frontend Development**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🎮 KELOMPOK 1
+**Your Team**
+> *About*
 
-**Backend & Database**
+<div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Development Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok1)
 
 </div>
 
----
+**Core Features:**
 
-## 🚀 Quick Start Guide
+</td>
+<td width="50%" valign="top">
 
-### Prerequisites
+### 👁️ KELOMPOK 2
+**Your Team**
+> *About*
 
-```bash
-✓ Git (v2.30 or higher)
-✓ GitHub Account with collaborator access
-✓ Code editor (VS Code recommended)
-✓ Basic knowledge of version control
-```
+<div align="center">
 
-### Setup Repository
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-4ECDC4?style=for-the-badge&logo=water&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok2)
 
-```bash
-# Clone the repository
-git clone https://github.com/BaryonDev/Kelompok1-PBL.git
+</div>
 
-# Navigate to project directory
-cd Kelompok1-PBL
+**Core Features:**
 
-# Verify remote connection
-git remote -v
-```
-
-### Daily Workflow
-
-```bash
-# 1. Pull latest changes (always do this first!)
-git pull origin main
-
-# 2. Make your changes
-# ... work on your files ...
-
-# 3. Check what changed
-git status
-
-# 4. Stage your changes
-git add .                    # Stage all files
-git add filename.txt         # Stage specific file
-
-# 5. Commit with clear message
-git commit -m "feat: add user authentication"
-
-# 6. Push to remote repository
-git push origin main
-```
-
-### Commit Message Guidelines
-
-| **Type** | **Usage** | **Example** |
-|----------|-----------|-------------|
-| `feat` | New feature | `feat: add login functionality` |
-| `fix` | Bug fix | `fix: resolve navbar collapse issue` |
-| `docs` | Documentation | `docs: update README installation steps` |
-| `style` | UI/Styling | `style: improve responsive design` |
-| `refactor` | Code improvement | `refactor: optimize database queries` |
-
----
-
-## 💡 Best Practices
-
-<table>
+</td>
+</tr>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### 🔄 Always Sync First
-Pull before you start working to avoid conflicts
+### 🎓 KELOMPOK 3
+**Your Team**
+> *About*
 
-```bash
-git pull origin main
-```
+<div align="center">
 
-</td>
-<td width="33%" align="center">
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-45B7D1?style=for-the-badge&logo=bookopen&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok3)
+</div>
 
-### 💬 Clear Communication
-Write descriptive commit messages
-
-```bash
-git commit -m "feat: description"
-```
+**Core Features:**
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### 🔒 Keep It Secure
-Never commit sensitive data
+### 🔥 KELOMPOK 4
+**Your Team**
+> *About*
 
-```bash
-# Add to .gitignore
-.env
-credentials.json
-```
+<div align="center">
+
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-F9CA24?style=for-the-badge&logo=church&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok4)
+</div>
+
+**Core Features:**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ KELOMPOK 5
+**Your Team**
+> *About*
+
+<div align="center">
+
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-A55EEA?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok5)
+
+</div>
+
+**Core Features:**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌟 KELOMPOK 6
+**Your Team**
+> *About*
+
+<div align="center">
+
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-26DE81?style=for-the-badge&logo=store&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok6)
+
+</div>
+
+**Core Features:**
+
+</td>
+</tr>
+<tr>
+* Start Section Here *
+<td width="50%" valign="top">
+
+### 🚀 KELOMPOK 7
+**Your Team**
+> *About*
+
+<div align="center">
+
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-FD79A8?style=for-the-badge&logo=graduationcap&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok7)
+
+</div>
+
+**Core Features:**
+
+</td>
+<td width="50%" valign="top">
+
+### 💎 KELOMPOK 8
+**Your Team**
+> *About*
+
+<div align="center">
+
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-2D3436?style=for-the-badge&logo=government&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok8)
+
+</div>
+
+**Core Features:**
 
 </td>
 </tr>
 </table>
 
-### What NOT to Commit
+</div>
 
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+## 📊 **PROJECT INSIGHTS & METRICS**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/fire-element--v1.png" width="60"/>
+<h3>🔥 Active Teams</h3>
+<h2 style="color: #FF6B6B;">8</h2>
+<p><em>Collaborative Excellence</em></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/diamond.png" width="60"/>
+<h3>💎 Projects</h3>
+<h2 style="color: #6C5CE7;">0</h2>
+<p><em>Production Ready</em></p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/team.png" width="60"/>
+<h3>👥 Developers</h3>
+<h2 style="color: #00B894;">22+</h2>
+<p><em>Innovative Minds</em></p>
+</td>
+  * End Section Here *
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 🛠️ **TECHNOLOGY STACK**
+
+<div align="center">
+
+### **Frontend Arsenal**
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
+
+### **Backend & Database**
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+</p>
+
+### **Tools & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+## 📚 **QUICK START GUIDE**
+
+### 🚀 **Getting Started with Private Repository**
+
+<details>
+<summary><b>📋 Prerequisites & Setup</b></summary>
+
+<br/>
+
+**Required Tools:**
+- ✅ Git (v2.30+)
+- ✅ GitHub Account
+- ✅ Text Editor (VS Code recommended)
+- ✅ Collaborator Access
+
+**Initial Configuration:**
+```bash
+# Configure Git identity
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+# Verify configuration
+git config --list
+```
+
+</details>
+
+<details>
+<summary><b>🔐 Authentication Setup</b></summary>
+
+<br/>
+
+**Option 1: Personal Access Token (Recommended)**
+
+1. Navigate to: GitHub → Settings → Developer settings
+2. Generate new token (classic)
+3. Select scopes: `repo` (full control)
+4. Copy and securely store your token
+
+**Option 2: SSH Key**
+```bash
+# Generate SSH key
+ssh-keygen -t ed25519 -C "your.email@example.com"
+
+# Copy public key
+cat ~/.ssh/id_ed25519.pub
+
+# Add to GitHub → Settings → SSH and GPG keys
+```
+
+</details>
+
+<details>
+<summary><b>📥 Clone Repository</b></summary>
+
+<br/>
+
+```bash
+# HTTPS Method
+git clone https://github.com/BaryonDev/Kelompok1-PBL.git
+
+# SSH Method
+git clone git@github.com:BaryonDev/Kelompok1-PBL.git
+
+# Navigate to project
+cd Kelompok1-PBL
+
+# Verify remote
+git remote -v
+```
+
+</details>
+
+<details>
+<summary><b>🔄 Daily Workflow</b></summary>
+
+<br/>
+
+```bash
+# 1️⃣ Start of day - Get latest changes
+git pull origin main
+
+# 2️⃣ Make your changes
+# ... edit files ...
+
+# 3️⃣ Check status
+git status
+
+# 4️⃣ Stage changes
+git add .                    # Stage all
+git add specific_file.php    # Stage specific file
+
+# 5️⃣ Commit with meaningful message
+git commit -m "feat: add user authentication module"
+
+# 6️⃣ Push to repository
+git push origin main
+
+# 7️⃣ End of day - Ensure everything is pushed
+git status
+```
+
+</details>
+
+<details>
+<summary><b>💡 Best Practices</b></summary>
+
+<br/>
+
+**Commit Message Convention:**
+```bash
+✅ Good Examples:
+git commit -m "feat: add payment gateway integration"
+git commit -m "fix: resolve login validation bug"
+git commit -m "docs: update API documentation"
+git commit -m "style: improve responsive design"
+
+❌ Bad Examples:
+git commit -m "update"
+git commit -m "fix bug"
+git commit -m "changes"
+```
+
+**File Ignore (.gitignore):**
 ```gitignore
-# Environment variables
-.env
-.env.local
-
 # Dependencies
 node_modules/
 vendor/
+venv/
 
-# IDE files
+# Environment
+.env
+.env.local
+
+# IDE
 .vscode/
 .idea/
+*.swp
 
-# System files
+# OS
 .DS_Store
 Thumbs.db
 
 # Logs
 *.log
+logs/
+
+# Build
+dist/
+build/
 ```
 
----
-
-## 🤝 Collaboration Rules
-
-> **Rule #1:** Pull before you code  
-> **Rule #2:** Test before you push  
-> **Rule #3:** Commit often, push daily  
-> **Rule #4:** Write clear commit messages  
-> **Rule #5:** Communicate with your team  
-> **Rule #6:** Never force push to main  
-
----
-
-## 🆘 Troubleshooting
+</details>
 
 <details>
-<summary><b>🔴 Push Rejected</b></summary>
+<summary><b>🛠️ Troubleshooting</b></summary>
+
+<br/>
+
+**Common Issues & Solutions:**
 
 ```bash
-# Someone pushed before you
+# Issue: Permission denied
+# Solution: Check collaborator access
+
+# Issue: Push rejected
 git pull origin main --rebase
 git push origin main
-```
-</details>
 
-<details>
-<summary><b>⚠️ Merge Conflict</b></summary>
-
-```bash
-# Check conflicted files
-git status
-
-# Open and resolve conflicts manually
-# Then:
+# Issue: Merge conflicts
+git status              # Identify conflicted files
+# Edit files to resolve conflicts
 git add .
-git commit -m "resolve: merge conflict"
+git commit -m "resolve: merge conflict in feature X"
 git push origin main
-```
-</details>
 
-<details>
-<summary><b>🔄 Undo Local Changes</b></summary>
-
-```bash
-# Discard all local changes
+# Issue: Reset local changes
 git reset --hard origin/main
 git clean -fd
+
+# Issue: View commit history
+git log --oneline --graph --decorate --all
 ```
+
 </details>
+
+<br/>
+
+## 🤝 **COLLABORATION GUIDELINES**
+
+<div align="center">
+
+| 📋 Rule | 📝 Description |
+|---------|---------------|
+| **🔄 Always Pull First** | Run `git pull` before starting work |
+| **💬 Clear Commits** | Write descriptive commit messages |
+| **🔒 Keep Secrets Safe** | Never commit `.env` or credentials |
+| **🤝 Communicate** | Inform team before major changes |
+| **✅ Test Before Push** | Ensure code works before pushing |
+| **📚 Document Changes** | Update README when needed |
+
+</div>
+
+<br/>
+
+
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br/>
+
+## 🌐 **CONNECT WITH US**
+
+<div align="center">
+
+<p>
+  <a href="https://github.com/BaryonDev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:contact@baryondev.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+### **🎓 Academic Partnership**
+*Teknik Komputer • Politeknik Negeri Manado*
+
+</div>
+
+<br/>
+
+## ⚠️ **IMPORTANT NOTICES**
+
+<div align="center">
+
+> 🔒 **PRIVATE REPOSITORY** — Authorized collaborators only  
+> 🚫 **NO UNAUTHORIZED SHARING** — Respect intellectual property  
+> 🔐 **SECURE CODING** — Never commit sensitive data  
+> 💬 **TEAM COMMUNICATION** — Stay connected via official channels
+
+</div>
+
+<br/>
+
+## 📜 **LICENSE & COPYRIGHT**
+
+<div align="center">
+
+```
+Copyright © 2025 BaryonDev • Project Based Learning Initiative
+All Rights Reserved • Educational Use Only
+```
+
+<p>
+  <img src="https://img.shields.io/badge/License-Educational-blue?style=for-the-badge" alt="License"/>
+  <img src="https://img.shields.io/badge/Version-3.0.0-success?style=for-the-badge" alt="Version"/>
+  <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge" alt="Maintained"/>
+</p>
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-## 📬 Contact & Support
+### ✨ **BUILT WITH PASSION • DRIVEN BY INNOVATION** ✨
 
-[![GitHub](https://img.shields.io/badge/GitHub-BaryonDev-181717?style=for-the-badge&logo=github)](https://github.com/BaryonDev)
-[![Email](https://img.shields.io/badge/Email-Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@baryondev.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=6C5CE7&center=true&vCenter=true&width=435&lines=Thank+you+for+being+part+of+this+journey!;Let's+build+something+amazing+together!;Innovation+starts+with+collaboration!" alt="Footer Typing SVG" />
 
-**🎓 Teknik Komputer • Politeknik Negeri Manado**
+<br/><br/>
 
----
-
-### ⚠️ Important Notice
-
-🔒 **Private Repository** - Authorized collaborators only  
-🚫 **No Unauthorized Sharing** - Educational use only  
-🔐 **Security First** - Never commit credentials  
-
----
-
-<sub>© 2025 BaryonDev • Project Based Learning Initiative</sub>
-
-**Built with 💜 by passionate developers**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
