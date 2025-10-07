@@ -37,7 +37,7 @@
 
 ### 🎮 **TEAM ALPHA** — KELOMPOK 1
 **Your Team**
-> *Revolutionizing Sport Hall Management*
+> *About*
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 ### 👁️ **TEAM BETA** — KELOMPOK 2
 **Your Team**
-> *Water Distribution Excellence*
+> *About*
 
 <div align="center">
 
@@ -70,7 +70,7 @@
 
 ### 🎓 **TEAM GAMMA** — KELOMPOK 3
 **Your Team**
-> *Empowering Educational Excellence*
+> *About*
 
 <div align="center">
 
@@ -85,7 +85,7 @@
 
 ### 🔥 **TEAM DELTA** — KELOMPOK 4
 **Your Team**
-> *Community Management Platform*
+> *About*
 
 <div align="center">
 
@@ -102,7 +102,7 @@
 
 ### ⚡ **TEAM EPSILON** — KELOMPOK 5
 **Your Team**
-> *Technical Education Platform*
+> *About*
 
 <div align="center">
 
@@ -117,7 +117,7 @@
 
 ### 🌟 **TEAM ZETA** — KELOMPOK 6
 **Your Team**
-> *Business Intelligence Solutions*
+> *About*
 
 <div align="center">
 
@@ -136,7 +136,7 @@
 
 ### 🚀 **TEAM ETA** — KELOMPOK 7
 **Your Team**
-> *Next-Gen Education System*
+> *About*
 
 <div align="center">
 
@@ -151,7 +151,7 @@
 
 ### 💎 **TEAM THETA** — KELOMPOK 8
 **Your Team**
-> *Government Tech Solutions*
+> *About*
 
 <div align="center">
 
