@@ -213,7 +213,7 @@
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/diamond.png" width="60"/>
 <h3>💎 Projects</h3>
-<h2 style="color: #6C5CE7;">4</h2>
+<h2 style="color: #6C5CE7;">0</h2>
 <p><em>Production Ready</em></p>
 </td>
 <td align="center" width="25%">
