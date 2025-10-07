@@ -219,7 +219,7 @@
 <td align="center" width="25%">
 <img src="https://img.icons8.com/color/96/000000/team.png" width="60"/>
 <h3>👥 Developers</h3>
-<h2 style="color: #00B894;">25+</h2>
+<h2 style="color: #00B894;">22+</h2>
 <p><em>Innovative Minds</em></p>
 </td>
 </tr>
