@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🔥_ACTIVE_TEAMS-8-FF6B6B.svg?style=for-the-badge&labelColor=1a1a2e&logo=target&logoColor=white" alt="Teams"/>
   <img src="https://img.shields.io/badge/⚡_STATUS-LIVE-00FF88.svg?style=for-the-badge&labelColor=1a1a2e&logo=statuspage&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/👥_DEVELOPERS-25+-6C5CE7.svg?style=for-the-badge&labelColor=1a1a2e&logo=githubsponsors&logoColor=white" alt="Contributors"/>
+  <img src="https://img.shields.io/badge/👥_DEVELOPERS-22+-6C5CE7.svg?style=for-the-badge&labelColor=1a1a2e&logo=githubsponsors&logoColor=white" alt="Contributors"/>
   <img src="https://img.shields.io/badge/📦_PROJECTS-8+-F9CA24.svg?style=for-the-badge&labelColor=1a1a2e&logo=blueprint&logoColor=white" alt="Projects"/>
 </p>
 
