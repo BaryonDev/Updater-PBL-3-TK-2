@@ -36,7 +36,7 @@
 <td width="50%" valign="top">
 
 ### 🎮 **TEAM ALPHA** — KELOMPOK 1
-**GOR BADMINTON BUHA**
+**Your Team**
 > *Revolutionizing Sport Hall Management*
 
 <div align="center">
@@ -46,15 +46,12 @@
 </div>
 
 **Core Features:**
-- 📅 Smart Booking System
-- 💳 Payment Integration
-- 📊 Real-time Analytics
 
 </td>
 <td width="50%" valign="top">
 
 ### 👁️ **TEAM BETA** — KELOMPOK 2
-**PT. BAHARI TIRTA JAYA**
+**Your Team**
 > *Water Distribution Excellence*
 
 <div align="center">
@@ -65,9 +62,6 @@
 </div>
 
 **Core Features:**
-- 💧 Distribution Tracking
-- 📈 Usage Analytics
-- 🔔 Alert System
 
 </td>
 </tr>
@@ -75,7 +69,7 @@
 <td width="50%" valign="top">
 
 ### 🎓 **TEAM GAMMA** — KELOMPOK 3
-**SMA NEGERI 10 MANADO**
+**Your Team**
 > *Empowering Educational Excellence*
 
 <div align="center">
@@ -85,15 +79,12 @@
 </div>
 
 **Core Features:**
-- 📚 Learning Management
-- 📝 Student Portal
-- 👨‍🏫 Teacher Dashboard
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔥 **TEAM DELTA** — KELOMPOK 4
-**PPA ID 0116 FILADELFIA**
+**Your Team**
 > *Community Management Platform*
 
 <div align="center">
@@ -103,9 +94,6 @@
 </div>
 
 **Core Features:**
-- 👥 Member Management
-- 📅 Event Scheduling
-- 💬 Communication Hub
 
 </td>
 </tr>
@@ -113,7 +101,7 @@
 <td width="50%" valign="top">
 
 ### ⚡ **TEAM EPSILON** — KELOMPOK 5
-**SMK NEGERI 8 MANADO**
+**Your Team**
 > *Technical Education Platform*
 
 <div align="center">
@@ -123,15 +111,12 @@
 </div>
 
 **Core Features:**
-- 🛠️ Skills Assessment
-- 📊 Progress Tracking
-- 🎯 Career Guidance
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌟 **TEAM ZETA** — KELOMPOK 6
-**UD.ARIFRI**
+**Your Team**
 > *Business Intelligence Solutions*
 
 <div align="center">
@@ -142,9 +127,6 @@
 </div>
 
 **Core Features:**
-- 📦 Inventory Management
-- 💰 Sales Analytics
-- 📱 Mobile POS
 
 </td>
 </tr>
@@ -153,7 +135,7 @@
 <td width="50%" valign="top">
 
 ### 🚀 **TEAM ETA** — KELOMPOK 7
-**SMP KATOLIK DON BOSCO**
+**Your Team**
 > *Next-Gen Education System*
 
 <div align="center">
@@ -163,15 +145,12 @@
 </div>
 
 **Core Features:**
-- 📖 E-Learning Platform
-- 🎯 Assessment Tools
-- 👨‍👩‍👧‍👦 Parent Portal
 
 </td>
 <td width="50%" valign="top">
 
 ### 💎 **TEAM THETA** — KELOMPOK 8
-**BPSDMP KOMINFO**
+**Your Team**
 > *Government Tech Solutions*
 
 <div align="center">
@@ -181,9 +160,6 @@
 </div>
 
 **Core Features:**
-- 🏛️ Service Management
-- 📊 Data Analytics
-- 🔐 Security First
 
 </td>
 </tr>
