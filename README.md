@@ -41,7 +41,7 @@
 
 <div align="center">
 
-[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/BaryonDev/Kelompok1-PBL)
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok1)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-4ECDC4?style=for-the-badge&logo=water&logoColor=white)](https://github.com/BaryonDev/Kelompok2-PBL)
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-4ECDC4?style=for-the-badge&logo=water&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok2)
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-45B7D1?style=for-the-badge&logo=bookopen&logoColor=white)](https://github.com/BaryonDev/Kelompok3-PBL)
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-45B7D1?style=for-the-badge&logo=bookopen&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok3)
 </div>
 
 **Core Features:**
@@ -87,7 +87,7 @@
 
 <div align="center">
 
-[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-F9CA24?style=for-the-badge&logo=church&logoColor=white)](https://github.com/BaryonDev/Kelompok4-PBL)
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-F9CA24?style=for-the-badge&logo=church&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok4)
 </div>
 
 **Core Features:**
@@ -103,7 +103,7 @@
 
 <div align="center">
 
-[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-A55EEA?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/BaryonDev/Kelompok5-PBL)
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-A55EEA?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok5)
 
 </div>
 
@@ -118,7 +118,7 @@
 
 <div align="center">
 
-[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-26DE81?style=for-the-badge&logo=store&logoColor=white)](https://github.com/BaryonDev/Kelompok6-PBL)
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-26DE81?style=for-the-badge&logo=store&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok6)
 
 </div>
 
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-FD79A8?style=for-the-badge&logo=graduationcap&logoColor=white)](https://github.com/BaryonDev/Kelompok7-PBL)
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-FD79A8?style=for-the-badge&logo=graduationcap&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok7)
 
 </div>
 
@@ -151,7 +151,7 @@
 
 <div align="center">
 
-[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-2D3436?style=for-the-badge&logo=government&logoColor=white)](https://github.com/BaryonDev/Kelompok8-PBL)
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-2D3436?style=for-the-badge&logo=government&logoColor=white)](https://github.com/BaryonDev/3TK2-Kelompok8)
 
 </div>
 
