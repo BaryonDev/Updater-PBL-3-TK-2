@@ -35,7 +35,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 **TEAM ALPHA** — KELOMPOK 1
+### 🎮 KELOMPOK 1
 **Your Team**
 > *About*
 
@@ -50,7 +50,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 👁️ **TEAM BETA** — KELOMPOK 2
+### 👁️ KELOMPOK 2
 **Your Team**
 > *About*
 
@@ -67,7 +67,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 **TEAM GAMMA** — KELOMPOK 3
+### 🎓 KELOMPOK 3
 **Your Team**
 > *About*
 
@@ -81,7 +81,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🔥 **TEAM DELTA** — KELOMPOK 4
+### 🔥 KELOMPOK 4
 **Your Team**
 > *About*
 
@@ -97,7 +97,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ **TEAM EPSILON** — KELOMPOK 5
+### ⚡ KELOMPOK 5
 **Your Team**
 > *About*
 
@@ -112,7 +112,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🌟 **TEAM ZETA** — KELOMPOK 6
+### 🌟 KELOMPOK 6
 **Your Team**
 > *About*
 
@@ -130,7 +130,7 @@
 * Start Section Here *
 <td width="50%" valign="top">
 
-### 🚀 **TEAM ETA** — KELOMPOK 7
+### 🚀 KELOMPOK 7
 **Your Team**
 > *About*
 
@@ -145,7 +145,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 💎 **TEAM THETA** — KELOMPOK 8
+### 💎 KELOMPOK 8
 **Your Team**
 > *About*
 
