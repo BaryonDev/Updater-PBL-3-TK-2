@@ -57,7 +57,6 @@
 <div align="center">
 
 [![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-4ECDC4?style=for-the-badge&logo=water&logoColor=white)](https://github.com/BaryonDev/Kelompok2-PBL)
-[![Live](https://img.shields.io/badge/VIEW_LIVE-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kelompok2-pbl.vercel.app/)
 
 </div>
 
@@ -75,7 +74,6 @@
 <div align="center">
 
 [![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-45B7D1?style=for-the-badge&logo=bookopen&logoColor=white)](https://github.com/BaryonDev/Kelompok3-PBL)
-[![Live](https://img.shields.io/badge/VIEW_LIVE-45B7D1?style=for-the-badge&logo=vercel&logoColor=white)](https://kelompok3-pbl.vercel.app/)
 </div>
 
 **Core Features:**
@@ -90,7 +88,6 @@
 <div align="center">
 
 [![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-F9CA24?style=for-the-badge&logo=church&logoColor=white)](https://github.com/BaryonDev/Kelompok4-PBL)
-[![Live](https://img.shields.io/badge/VIEW_LIVE-F9CA24?style=for-the-badge&logo=vercel&logoColor=white)](https://kelompok4-pbl.vercel.app/)
 </div>
 
 **Core Features:**
@@ -122,7 +119,6 @@
 <div align="center">
 
 [![Explore](https://img.shields.io/badge/EXPLORE_PROJECT-26DE81?style=for-the-badge&logo=store&logoColor=white)](https://github.com/BaryonDev/Kelompok6-PBL)
-[![Live](https://img.shields.io/badge/VIEW_LIVE-20C997?style=for-the-badge&logo=vercel&logoColor=white)](https://kelompok6-pbl.vercel.app/)
 
 </div>
 
