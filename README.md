@@ -4,7 +4,7 @@
 <!-- <img src="https://raw.githubusercontent.com/BaryonDev/PBL-Updater/main/upt.png" alt="Project Banner" width="100%"/> -->
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=PROJECT+BASED+LEARNING;Semester+3+%E2%80%A2+Teknik+Komputer+2;Innovation+%26+Excellence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=PROJECT+BASED+LEARNING;Semester+4+%E2%80%A2+Teknik+Komputer+2;Innovation+%26+Excellence" alt="Typing SVG" />
 </h1>
 
 <p align="center">
